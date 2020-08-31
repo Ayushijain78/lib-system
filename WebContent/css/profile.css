@@ -1,0 +1,40 @@
+	#d1
+	{
+		width: 900px;
+		
+		display: block;
+		box-shadow: 10px 20px 30px 10px #ccc;
+		padding-bottom: 50px;
+		margin-bottom:30px;
+		
+	}
+	.img1
+	{
+		margin-right: 30px;
+		margin-top: 30px;
+		width: 150px;
+		border: 0px solid black;
+		box-shadow: 10px 20px 30px 10px #ccc;
+	}
+	p
+	{
+		font-size: 20px;
+		margin-left: 2px;
+		color:#1e6c31;
+		border-left:5px solid green;
+	}
+	.left
+	{
+		margin-left: 10px;
+		color:black;
+		
+	}
+	body
+	{
+		overflow-x:hidden;
+	}
+	*
+	{
+		
+		text-transform: capitalize;
+	}
